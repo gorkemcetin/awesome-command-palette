@@ -1,6 +1,6 @@
 # Command palette resources
 
-💡 *Brought to you by [Magny](https://magny.io), a free SaaS service to add command palettes in your application.*
+💡 *Brought to you by [Magny](https://magny.io), a free SaaS service to add command palettes in your application. This repo is also available at [commandpalette.org](https://commandpalette.org)*
 
 A command palette is a **user interface element** that provides access to a set of commands or actions. It typically appears as vertical menu of options and can be accessed using keyboard or mouse.
 
